@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\EcoLibriumSolar\FileWriteTesting\FileWriteTesting\bin\Debug\FileWriteTesting.exe.config
+C:\Users\Owner\Desktop\EcoLibriumSolar\FileWriteTesting\FileWriteTesting\bin\Debug\FileWriteTesting.exe
+C:\Users\Owner\Desktop\EcoLibriumSolar\FileWriteTesting\FileWriteTesting\bin\Debug\FileWriteTesting.pdb
+C:\Users\Owner\Desktop\EcoLibriumSolar\FileWriteTesting\FileWriteTesting\obj\Debug\FileWriteTesting.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\EcoLibriumSolar\FileWriteTesting\FileWriteTesting\obj\Debug\FileWriteTesting.exe
+C:\Users\Owner\Desktop\EcoLibriumSolar\FileWriteTesting\FileWriteTesting\obj\Debug\FileWriteTesting.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\FileWriteTesting\FileWriteTesting\bin\Debug\FileWriteTesting.exe.config
+C:\Users\Owner\Desktop\Jeremy_Bytes\FileWriteTesting\FileWriteTesting\obj\Debug\FileWriteTesting.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\FileWriteTesting\FileWriteTesting\obj\Debug\FileWriteTesting.pdb

@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\bin\Debug\Hay_Stack_Testing.exe.config
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\bin\Debug\Hay_Stack_Testing.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\bin\Debug\Hay_Stack_Testing.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\bin\Debug\eBags.PileOfBeans.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\bin\Debug\eBags.PileOfBeans.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\obj\Debug\Hay_Stack_Testing.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\obj\Debug\Hay_Stack_Testing.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Hay_Stack_Testing\Hay_Stack_Testing\obj\Debug\Hay_Stack_Testing.pdb

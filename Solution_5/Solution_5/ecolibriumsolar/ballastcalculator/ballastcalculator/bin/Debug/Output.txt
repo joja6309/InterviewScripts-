@@ -1,0 +1,26 @@
+perm SECTION VALUES 
+====================
+Corner 1:  
+Corner 2:  
+Corner 3:  
+Corner 4:  
+Center : (0, 0)
+perm Dimensions: 
+==================
+Width: 0
+Height: 0
+IFI Values:
+============
+Corner 1: (4688.8336778834, 819.029578268767)
+Corner 2: (8035.2936778834, 819.029578268767)
+Corner 3: (8035.2936778834, -680.970421731233)
+Corner 4: (4688.8336778834, -680.970421731233)
+IFI Dimensions: 
+==================
+Width: 3346.46
+Height: 1500
+Panel/Entities Values:
+======================
+IFI Corners: 
+North East Corner: (4688.8336778834, 819.029578268767)
+North west Corner: (8035.2936778834, 819.029578268767)

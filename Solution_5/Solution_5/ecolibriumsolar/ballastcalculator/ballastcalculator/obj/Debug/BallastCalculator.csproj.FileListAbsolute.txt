@@ -1,0 +1,18 @@
+C:\Users\Owner\Desktop\EcoLibriumSolar\BallastCalculator\BallastCalculator\bin\Debug\BallastCalculator.exe.config
+C:\Users\Owner\Desktop\EcoLibriumSolar\BallastCalculator\BallastCalculator\obj\Debug\BallastCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\EcoLibriumSolar\BallastCalculator\BallastCalculator\bin\Debug\BallastCalculator.exe
+C:\Users\Owner\Desktop\EcoLibriumSolar\BallastCalculator\BallastCalculator\bin\Debug\BallastCalculator.pdb
+C:\Users\Owner\Desktop\EcoLibriumSolar\BallastCalculator\BallastCalculator\obj\Debug\BallastCalculator.exe
+C:\Users\Owner\Desktop\EcoLibriumSolar\BallastCalculator\BallastCalculator\obj\Debug\BallastCalculator.pdb
+C:\Users\KBasarich\Dropbox (Personal)\EF3 Software Project Files\Solution_5\EcoLibriumSolar\BallastCalculator\BallastCalculator\bin\Debug\BallastCalculator.exe.config
+C:\Users\KBasarich\Dropbox (Personal)\EF3 Software Project Files\Solution_5\EcoLibriumSolar\BallastCalculator\BallastCalculator\obj\Debug\BallastCalculator.exe
+C:\Users\KBasarich\Dropbox (Personal)\EF3 Software Project Files\Solution_5\EcoLibriumSolar\BallastCalculator\BallastCalculator\obj\Debug\BallastCalculator.pdb
+C:\Users\KBasarich\Dropbox (Personal)\EF3 Software Project Files\Solution_5\EcoLibriumSolar\BallastCalculator\BallastCalculator\obj\Debug\BallastCalculator.csprojResolveAssemblyReference.cache
+C:\Users\KBasarich\Dropbox (Personal)\EF3 Software Project Files\Solution_5\EcoLibriumSolar\BallastCalculator\BallastCalculator\bin\Debug\BallastCalculator.exe
+C:\Users\KBasarich\Dropbox (Personal)\EF3 Software Project Files\Solution_5\EcoLibriumSolar\BallastCalculator\BallastCalculator\bin\Debug\BallastCalculator.pdb
+C:\Users\Owner\Desktop\Solution_5\Solution_5\ecolibriumsolar\ballastcalculator\BallastCalculator\bin\Debug\BallastCalculator.exe.config
+C:\Users\Owner\Desktop\Solution_5\Solution_5\ecolibriumsolar\ballastcalculator\BallastCalculator\obj\Debug\BallastCalculator.exe
+C:\Users\Owner\Desktop\Solution_5\Solution_5\ecolibriumsolar\ballastcalculator\BallastCalculator\obj\Debug\BallastCalculator.pdb
+C:\Users\Owner\Desktop\Solution_5\Solution_5\ecolibriumsolar\ballastcalculator\BallastCalculator\bin\Debug\BallastCalculator.exe
+C:\Users\Owner\Desktop\Solution_5\Solution_5\ecolibriumsolar\ballastcalculator\BallastCalculator\bin\Debug\BallastCalculator.pdb
+C:\Users\Owner\Desktop\Solution_5\Solution_5\ecolibriumsolar\ballastcalculator\BallastCalculator\obj\Debug\BallastCalculator.csprojResolveAssemblyReference.cache

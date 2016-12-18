@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\Enums_Intro\Enums_Intro\bin\Debug\Enums_Intro.exe.config
+C:\Users\Owner\Desktop\Jeremy_Bytes\Enums_Intro\Enums_Intro\bin\Debug\Enums_Intro.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Enums_Intro\Enums_Intro\bin\Debug\Enums_Intro.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Enums_Intro\Enums_Intro\obj\Debug\Enums_Intro.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\Enums_Intro\Enums_Intro\obj\Debug\Enums_Intro.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Enums_Intro\Enums_Intro\obj\Debug\Enums_Intro.pdb

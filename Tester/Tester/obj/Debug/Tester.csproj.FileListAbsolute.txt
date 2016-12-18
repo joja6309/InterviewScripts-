@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\Tester\Tester\bin\Debug\Tester.exe.config
+C:\Users\Owner\Desktop\Jeremy_Bytes\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\Tester\Tester\obj\Debug\Tester.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Tester\Tester\obj\Debug\Tester.pdb

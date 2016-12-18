@@ -1,0 +1,4 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\Bank\obj\Debug\Bank.pdb

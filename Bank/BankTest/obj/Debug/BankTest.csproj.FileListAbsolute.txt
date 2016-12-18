@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\bin\Debug\Bank.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\bin\Debug\Bank.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\Bank\BankTest\obj\Debug\BankTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.dll
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.pdb
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\PileOfBeans.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.dll
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\PileOfBeans.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.pdb

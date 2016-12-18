@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\Owner\Desktop\EcoLibriumSolar\UserInterface\UserInterface\obj\Debug\UserInterface.pdb

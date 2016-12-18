@@ -1,0 +1,9 @@
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.Test.Unit.dll
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.Test.Unit.pdb
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.dll
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.pdb
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\PileOfBeans.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\eBags.PileOfBeans.Test.Unit.dll
+C:\Users\Owner\Downloads\eBags_HaystackDeveloperChallenge\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\eBags.PileOfBeans.Test.Unit.pdb

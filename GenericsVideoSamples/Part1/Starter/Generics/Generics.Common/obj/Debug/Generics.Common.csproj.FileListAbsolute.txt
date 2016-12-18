@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\GenericsVideoSamples\Part1\Starter\Generics\Generics.Common\bin\Debug\Generics.Common.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\GenericsVideoSamples\Part1\Starter\Generics\Generics.Common\bin\Debug\Generics.Common.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\GenericsVideoSamples\Part1\Starter\Generics\Generics.Common\obj\Debug\Generics.Common.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\GenericsVideoSamples\Part1\Starter\Generics\Generics.Common\obj\Debug\Generics.Common.dll
+C:\Users\Owner\Desktop\Jeremy_Bytes\GenericsVideoSamples\Part1\Starter\Generics\Generics.Common\obj\Debug\Generics.Common.pdb

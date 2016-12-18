@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\Jeremy_Bytes\Interface_Example_1\Interface_Example_1\bin\Debug\Interface_Example_1.exe.config
+C:\Users\Owner\Desktop\Jeremy_Bytes\Interface_Example_1\Interface_Example_1\obj\Debug\Interface_Example_1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Jeremy_Bytes\Interface_Example_1\Interface_Example_1\bin\Debug\Interface_Example_1.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Interface_Example_1\Interface_Example_1\bin\Debug\Interface_Example_1.pdb
+C:\Users\Owner\Desktop\Jeremy_Bytes\Interface_Example_1\Interface_Example_1\obj\Debug\Interface_Example_1.exe
+C:\Users\Owner\Desktop\Jeremy_Bytes\Interface_Example_1\Interface_Example_1\obj\Debug\Interface_Example_1.pdb
